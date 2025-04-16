@@ -1,7 +1,9 @@
 #  Diabetes Disease Detector
 
-This project is a Machine Learning-based system that predicts whether a person has diabetes or not based on various medical attributes. 
----
+## Project Overview
+
+This project is a Machine Learning-based system that predicts whether a person has diabetes or not based on various medical attributes.
+
 
 ###  What’s included in this project?
 
